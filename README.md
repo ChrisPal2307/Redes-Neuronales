@@ -13,7 +13,7 @@
 
 <hr>
 
-<h2>XY Representation</h2>
+<h2>XY Function</h2>
 <p align="center">
   <img src="images/xy.png" width="600">
 </p>
